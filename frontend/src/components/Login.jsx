@@ -7,7 +7,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Eye } from 'lucide-react'
 
-const API_BASE='http://localhost:4000';
+const API_BASE='https://quiz-app-backend-75qo.onrender.com';
 
 
 
