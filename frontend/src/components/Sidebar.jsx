@@ -13,7 +13,7 @@ import { toast } from 'react-toastify';
 const Sidebar = () => {
 
 
-  const API_BASE="http://localhost:4000";
+  const API_BASE="https://quiz-app-backend-75qo.onrender.com";
 
 
   const [selectedTech, setSelectedTech] = useState(null);
